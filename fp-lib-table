@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name FairyLogo)(type KiCad)(uri ${KIPRJMOD}/FairyLogo.pretty)(options "")(descr ""))
+)
