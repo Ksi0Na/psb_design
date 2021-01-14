@@ -1,4 +1,6 @@
 (sym_lib_table
   (lib (name Cryptuino01-rescue)(type Legacy)(uri ${KIPRJMOD}/Cryptuino01-rescue.lib)(options "")(descr ""))
   (lib (name Cryptuino01_MOV-rescue)(type Legacy)(uri ${KIPRJMOD}/Cryptuino01_MOV-rescue.lib)(options "")(descr ""))
+  (lib (name test)(type Legacy)(uri ${KIPRJMOD}/test.lib)(options "")(descr ""))
+  (lib (name test1)(type Legacy)(uri ${KIPRJMOD}/test1.lib)(options "")(descr ""))
 )

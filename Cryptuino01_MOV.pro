@@ -1,4 +1,4 @@
-update=02.01.2021 19:08:03
+update=08.01.2021 11:00:56
 version=1
 last_client=kicad
 [general]
@@ -238,9 +238,9 @@ dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
 [pcbnew/Netclasses/1]
-Name=My
+Name=VBUS
 Clearance=0.2
-TrackWidth=0.25
+TrackWidth=0.3
 ViaDiameter=0.6
 ViaDrill=0.3
 uViaDiameter=0.3
